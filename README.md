@@ -1,2 +1,4 @@
 # lab2
-lab2 for ensf692
+Abdul Wasay
+![screenshot](picture.png)
+
